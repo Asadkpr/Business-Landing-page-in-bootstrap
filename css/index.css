@@ -1,0 +1,151 @@
+.Pricing_data{background-color: #252B42;}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    background-color: #252B42;
+    color: white;
+    font-family: sans-serif;
+    padding: 100px;
+    margin-top: 50px;
+}
+
+.Navbar{
+    background-image: url('../Assets/Header-bg.png');
+    background-position: center;
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#naveItem{
+    margin-top: 5%;font-size: 20px;
+}
+#card{
+    box-shadow: 4px 4px 4px 4px #888888;
+    border-radius: 10px;
+}
+#tryforFree{
+    /* width: 15%; */
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    width: 9rem;
+    
+
+}
+#tryforFree2{
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+}
+#heading{
+    font-family: sans-serif;
+}
+#textCol{
+    font-family: sans-serif;
+}
+
+
+#firstCard{
+    
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-family: sans-serif;
+    
+ 
+   
+}
+
+#secondCard{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    padding-bottom: 50px;
+    margin-top: -46px;
+    padding-top: 43px;
+    
+ 
+}
+#allCards{
+    width: 70%;
+    display: flex;
+    margin: auto; text-align: center;
+}
+#cardText{
+    text-align: center;margin-left: 86px;
+}
+#heading2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+#heading3{
+    text-align: center;
+    font-weight: 700;font-size: 60px;
+    margin-left: -15px;
+    font-family: sans-serif;
+}
+#text6{
+    font-family: sans-serif;
+}
+#heading6{
+    font-weight: 700;
+    font-family: sans-serif;
+
+}
+.text0{
+    font-size: 70px;
+    font-weight: 900;
+    font-family: sans-serif;
+
+
+}
+.dollars{
+    font-weight: 700;
+}
+.permonth{
+    margin-top: 20px;
+    font-family: sans-serif;
+
+}
+#maintxt{
+    display: flex;
+     margin: 0 auto;
+      width: 20%;
+    font-family: sans-serif;
+
+}
+#orderBTN{
+    border-radius: 20px;
+    width: 60%;
+    height: 40px;
+    border: none;
+}
+#orderBTN2{
+    border-radius: 20px;
+    width: 60%;
+    background-color: white;
+    color: blue;
+    height: 40px;
+    border: none;
+}
+#input{
+    height: 50px;
+    border-radius: 30px;
+    background-color: #E8E8E8;
+    border: none;
+}
+#textbox{
+    background-color: #E8E8E8;
+    border: none;
+}
+#heading1{
+    font-weight: 600;
+}
